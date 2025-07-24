@@ -225,7 +225,7 @@ const MONSTERS = [
     {monster: "Strange Serpent Drug Cultist", hp: "4", morale: "4", armourname: "Gatorskin vestment", armourvalue: "-d3", weaponname: "Knife or club", weaponvalue: "d4", special: "Drug-addled: Immune to mind-affecting powers"},
     {monster: "Forked-Tongue Devotee", hp: "9", morale: "9", armourname: "Gatorskin hood and vestment", armourvalue: "-d4", weaponname: "Forked dagger", weaponvalue: "d4 + poison", special: "Poison: Test Toughness DR10 or become infected and drowsy, raising thedifficultyofallattackanddefence tests by +2 for D4 hours. ❡ Viper spit: Test Agility DR12 to avoid being blinded D3 rounds."},
     //DEATH TEMPLE SZTUN
-    {monster: "Skeleton", hp: "6", morale: "—", armourname: "Chain", armourvalue: "-d4", weaponname: "Halbard or Scythe", weaponvalue: "d6", special: "Old and dry: DR10 to hit them."},
+    {monster: "Skeleton", hp: "6", morale: "—", armourname: "Chain", armourvalue: "-d4", weaponname: "Halberd or Scythe", weaponvalue: "d6", special: "Old and dry: DR10 to hit them."},
     {monster: "Giant spider", hp: "8", morale: "8", armourname: "Carapace", armourvalue: "-d2", weaponname: "Bite", weaponvalue: "d4", special: "—"},
     {monster: "Chained Skeleton", hp: "6", morale: "—", armourname: "No armour", armourvalue: "", weaponname: "Grab/strike", weaponvalue: "d2", special: "Grapple: DR12 Strength test or be grappled."},
     //ROTBLACK SLUDGE
