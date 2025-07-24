@@ -236,7 +236,7 @@ const MONSTERS = [
     {monster: "Slumbering skeleton", hp: "5", morale: "7", armourname: "No armour", armourvalue: "", weaponname: "Bony fists", weaponvalue: "d4", special: "Thoughtless, without goal."},
     {monster: "Gutworm", hp: "50", morale: "—", armourname: "Thick gide", armourvalue: "-d6", weaponname: "Razor-sharp teeth", weaponvalue: "d10", special: "Test Agility DR6 or be devoured, dying instantly. ❡ Can travel vast distances."},
     //THE UNSEEN VAULTS OF THE OPTIC EXPERIMENT — TO FINISH
-    {monster: "Observer", hp: "20", morale: "—", armourname: "Chitin", armourvalue: "-d6", weaponname: "Bite", weaponvalue: "d6", special: "3 random rays each round, at random targets. Test Presence DR12 to avoid effect. ❡ Optic Pg.9 ❡ Essenitally a Beholder."},
+    {monster: "Observer", hp: "20", morale: "—", armourname: "Chitin", armourvalue: "-d6", weaponname: "Bite", weaponvalue: "d6", special: "3 random rays each round, at random targets. Test Presence DR12 to avoid effect. ❡ Optic Pg.9 ❡ Essentially a Beholder."},
 
 
     
