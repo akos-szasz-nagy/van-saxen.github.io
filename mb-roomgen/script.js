@@ -420,7 +420,7 @@ const TRAP_BUILDERS = [
     'A catacomb creatorʼs executioner.',
     'An inveterate nail collector.',
     'A cunning, crafty skeleton.',
-    'A bewildered wickhe',
+    'A bewildered wickhead.',
     'A sickly, blind demigod',
     'A group of terrified goons.',
     'A mindless death-cultist.',
